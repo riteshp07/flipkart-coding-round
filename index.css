@@ -1,0 +1,22 @@
+body{
+    
+}
+.box{
+    width: 20%;
+    float: left;
+    border: 1px solid whitesmoke;
+    padding: 10px;
+    margin: 20px;
+}
+img{
+    position: relative;
+    height: 100%;
+    width: 100%;
+    /* padding: 10px; */
+    /* margin: 10px; */
+    float: center;
+}
+p{
+  margin: 10px;
+  padding: 10px;
+}
